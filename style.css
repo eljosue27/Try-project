@@ -107,9 +107,7 @@ input[type="submit"] {
   #main-container {
     width: 50%;
   }
-  .all-content-container {
-    padding: 30px 30px;
-  }
+
   #logo-image {
     padding-left: 30px;
     padding-bottom: 90px;
@@ -133,7 +131,7 @@ input[type="submit"] {
     padding-left: 30px;
   }
   input[type="text"] {
-    width: 70%;
+    width: 60%;
   }
   input[type="submit"] {
     padding: 12px 30px;
